@@ -1,2 +1,3 @@
 # LanguageTranslator
-Smallest code possible for translating languages.
+Smallest code possible for translating languages using googletrans, translators .
+
